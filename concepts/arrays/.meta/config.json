@@ -1,5 +1,5 @@
 {
-  "blurb": "TODO: add blurb for arrays concept",
+  "blurb": "An array is a sequence of elements which can be referred to by integral indexes. They can be multi-dimensional. They can contain hetergeneous data.",
   "authors": ["verdammelt"],
   "contributors": []
 }
