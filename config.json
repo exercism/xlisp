@@ -825,6 +825,11 @@
       "uuid": "6e40e924-f9a1-4dce-9d23-44f922e3ba48",
       "slug": "variables",
       "name": "Variables"
+    },
+    {
+      "uuid": "f1077b68-24ad-49fc-8444-db759eaa8c9c",
+      "slug": "vectors",
+      "name": "Vectors"
     }
   ],
   "key_features": [
