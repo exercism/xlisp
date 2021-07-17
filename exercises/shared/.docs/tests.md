@@ -1,4 +1,4 @@
-# CLI
+# Tests
 
 Start the REPL from the directory that you downloaded the exercise to.
 

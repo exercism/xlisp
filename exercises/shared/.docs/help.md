@@ -1,9 +1,3 @@
-# {{ .Spec.Name }}
-
-{{ .Spec.Description -}}
-{{- with .Hints }}
-{{ . }}
-{{ end }}
 ## Setup
 
 Check out [Installing Common
@@ -50,10 +44,6 @@ order to have it set whenever Emacs is launched.
 One suggested add-on for Emacs and Common Lisp is
 [SLIME](https://github.com/slime/slime) which offers tight integration
 with the REPL; making iterative coding and testing very easy.
-{{ with .Spec.Credits }}
-## Source
 
-{{ . }}
-{{ end }}
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
